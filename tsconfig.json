@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "target": "ES6",
+    "moduleResolution": "Node"
+                  
+  }
+}
